@@ -4,6 +4,7 @@ h1 {
     font-family: Verdana;
     font-weight: Normal;
     text-align: center;
+    font-size: 50px;
 }
 
 html {
@@ -11,7 +12,11 @@ html {
     text-align: center;
 }
 
-h6 {
+body {
+    font-family: Verdana, sans-serif;
+}
+
+a {
     font-size: 16px;
     color: aquamarine;
 }
